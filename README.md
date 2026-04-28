@@ -10,12 +10,13 @@
 [![Discord](https://img.shields.io/badge/discord-Santideva-black?logo=discord)](https://discord.com)
 [![X / Twitter](https://img.shields.io/badge/x-@Tek__Savvy-black?logo=x)](https://x.com/Tek_Savvy)
 
----
-
 *Conceived by **Santideva** (Discord) • [@Tek_Savvy](https://x.com/Tek_Savvy) (X.com)*
 
----"Simplicity is the ultimate sophistication" is widely attributed to Leonardo da Vinci
+"Simplicity is the ultimate sophistication"
+-Leonardo da Vinci
 
+"If the implementation is easy to explain, it may be a good idea."
+-Tim Peters (python)
 ## Overview
 
 **TAO Apprentice** is a proposed Bittensor subnet whose mission is to open-source knowledge about the Bittensor ecosystem via structured, incentivized word-of-mouth mentorship.
