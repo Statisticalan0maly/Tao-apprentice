@@ -14,7 +14,7 @@
 
 *Conceived by **Santideva** (Discord) • [@Tek_Savvy](https://x.com/Tek_Savvy) (X.com)*
 
----
+---"Simplicity is the ultimate sophistication" is widely attributed to Leonardo da Vinci
 
 ## Overview
 
