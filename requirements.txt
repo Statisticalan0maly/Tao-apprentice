@@ -1,0 +1,28 @@
+# TAO Apprentice — Python Dependencies
+# Python 3.10+ required
+
+# Bittensor core
+bittensor>=7.0.0
+
+# Async HTTP for on-chain queries
+aiohttp>=3.9.0
+
+# Data handling
+numpy>=1.26.0
+pandas>=2.1.0
+
+# Logging and config
+loguru>=0.7.2
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+
+# Cryptographic utilities (wallet verification)
+py-substrate-interface>=1.7.0
+
+# CLI utilities
+click>=8.1.7
+rich>=13.7.0
+
+# Testing (dev only)
+pytest>=7.4.0
+pytest-asyncio>=0.23.0

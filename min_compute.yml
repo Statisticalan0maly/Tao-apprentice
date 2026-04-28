@@ -1,0 +1,50 @@
+# Minimum Compute Requirements — TAO Apprentice
+# This subnet does NOT require GPU hardware for miners.
+# The work is mentorship, not computation.
+
+miner:
+  cpu:
+    cores: 4
+    recommended: 8
+  ram:
+    min_gb: 8
+    recommended_gb: 16
+  storage:
+    min_gb: 100
+    type: SSD recommended
+  gpu:
+    required: false
+    notes: No GPU needed for miners on this subnet
+  network:
+    min_mbps: 25
+    recommended_mbps: 100
+    type: Stable broadband required
+  os:
+    supported:
+      - Ubuntu 22.04 LTS
+      - Ubuntu 20.04 LTS
+      - macOS Sequoia (15.0+)
+      - Windows 11
+    recommended: Ubuntu 22.04 LTS
+
+validator:
+  cpu:
+    cores: 8
+    recommended: 16
+  ram:
+    min_gb: 16
+    recommended_gb: 32
+  storage:
+    min_gb: 200
+    type: SSD required
+  gpu:
+    required: false
+  network:
+    min_mbps: 100
+    recommended_mbps: 500
+    type: Stable broadband, low latency preferred
+  os:
+    supported:
+      - Ubuntu 22.04 LTS
+      - Ubuntu 20.04 LTS
+    recommended: Ubuntu 22.04 LTS
